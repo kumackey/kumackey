@@ -1,0 +1,10 @@
+name: update readme
+
+on: [ workflow_dispatch ]
+
+jobs:
+  profile-updater:
+    runs-on: ubuntu-latest
+    steps:
+      - name: proifile-updater
+        uses: kumackey/proifile-updater@main
