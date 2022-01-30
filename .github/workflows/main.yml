@@ -9,3 +9,16 @@ jobs:
       - uses: actions/checkout@v2
       - name: profile-updater
         uses: kumackey/profile-updater@main
+      - name: Push to repository
+        run: |
+          git add -N .
+          if ! git diff --exit-code --quiet
+          then
+              git config --local user.email "action@github.com"
+              git config --local user.name "GitHub Actions"
+              git add .
+              git commit -m "auto update"
+              git push origin main
+              exit 0
+          fi
+          echo "no changes"
