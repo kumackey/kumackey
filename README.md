@@ -1,5 +1,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumackey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+# Zenn Articles
+
 <!-- profile updater begin: zenn -->
 - [リリースフラグによってプルリクを小さくする方法](https://zenn.dev/kumackey/articles/d20220120-98f77cad115deb)
 - [【Go】Developer eXperience Day 2021における和田さんのテスト駆動開発の解説をGoで実装してみた](https://zenn.dev/kumackey/articles/a9dc6ab95780d0)
