@@ -9,6 +9,8 @@ jobs:
       - uses: actions/checkout@v2
       - name: profile-updater
         uses: kumackey/profile-updater@main
+        with:
+          zenn_user_id: kumackey
       - name: Push to repository
         run: |
           git config --local user.email "action@github.com"
