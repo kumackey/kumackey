@@ -1,4 +1,4 @@
-name: update readme
+name: profile updater
 
 on: [ workflow_dispatch ]
 
