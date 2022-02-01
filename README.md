@@ -8,4 +8,5 @@
 - [【PHP入門】json_encodeで明示的に配列・オブジェクトにエンコードさせる](https://zenn.dev/kumackey/articles/06b87040c5374d)
 - [【入門】結局getter/setterは悪なのか](https://zenn.dev/kumackey/articles/c3acbd928d1d510268ab)
 - [【備忘録】AWS EC2へのSSHで`port 22: Operation timed out`になっちゃう現象を調査した](https://zenn.dev/kumackey/articles/398645b471fb05d3814a)
+- [【PHP】CIDRに特定IPアドレスが含まれているかをチェックする](https://zenn.dev/kumackey/articles/37c00f302fa41f5e9276)
 <!-- profile updater end: zenn -->
