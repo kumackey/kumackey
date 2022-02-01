@@ -1,4 +1,4 @@
-name: update readme
+name: profile updater
 
 on: [ workflow_dispatch ]
 
@@ -10,6 +10,7 @@ jobs:
       - uses: kumackey/profile-updater@main
         with:
           zenn_user_id: kumackey
+          zenn_max_articles: 6
       - name: Commit and push
         run: |
           git config --local user.name "GitHub Actions"
