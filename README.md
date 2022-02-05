@@ -10,6 +10,8 @@
 - Aug 14 [【備忘録】AWS EC2へのSSHで`port 22: Operation timed out`になっちゃう現象を調査した](https://zenn.dev/kumackey/articles/398645b471fb05d3814a)
 <!-- profile updater end: zenn -->
 
+# connpass Events
+
 <!-- profile updater begin: connpass -->
 - Feb 11 [ゴリラ.Go #2](https://gorilla-go.connpass.com/event/237637/)
 - Feb 9 [実践！インテグレーションパターン](https://modeling-how-to-learn.connpass.com/event/233934/)
