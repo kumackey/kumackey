@@ -9,3 +9,6 @@
 - Sep 26 [【入門】結局getter/setterは悪なのか](https://zenn.dev/kumackey/articles/c3acbd928d1d510268ab)
 - Aug 14 [【備忘録】AWS EC2へのSSHで`port 22: Operation timed out`になっちゃう現象を調査した](https://zenn.dev/kumackey/articles/398645b471fb05d3814a)
 <!-- profile updater end: zenn -->
+
+<!-- profile updater begin: connpass -->
+<!-- profile updater end: connpass -->
