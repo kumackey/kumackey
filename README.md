@@ -13,19 +13,19 @@
 # Qiita Articles
 
 <!-- profile updater begin: qiita -->
-- Feb 11 [ゴリラ.Go #2](https://gorilla-go.connpass.com/event/237637/)
-- Feb 9 [実践！インテグレーションパターン](https://modeling-how-to-learn.connpass.com/event/233934/)
-- Feb 7 [AWSの基礎を学ぼう 第七十一回](https://awsbasics.connpass.com/event/236239/)
-- Feb 5 [特別編 Amazon VPC IP Address Manager ハンズオン](https://awsbasics.connpass.com/event/235160/)
-- Jan 31 [AWSの基礎を学ぼう 第七十回](https://awsbasics.connpass.com/event/235174/)
-<!-- profile updater end: qiita -->
-
-# connpass Events
-
-<!-- profile updater begin: connpass -->
 - Jan 24 [【PHP】住所を都道府県/市区町村/それ以降に分ける](https://qiita.com/kumackey/items/caa6d4f5eb3370ef59f4)
 - Dec 30 [【PHP】DatetimeImmutableのコンストラクタはタイムゾーン判定において文字列を優先する](https://qiita.com/kumackey/items/e49aeb89f5eced4cdbfa)
 - Nov 20 [【PHP入門】RubyエンジニアがPHPを勉強し始めるときに見る記事](https://qiita.com/kumackey/items/352ce983362d186773be)
 - Aug 29 [「確定する」の命名](https://qiita.com/kumackey/items/e1d30002104a016ba1fe)
 - Aug 16 [Cannot create container for 〇〇: create .: volume name is too short, names should be at least two alphanumeric characters](https://qiita.com/kumackey/items/5b5617047a5685e61953)
+<!-- profile updater end: qiita -->
+
+# connpass Events
+
+<!-- profile updater begin: connpass -->
+- Feb 11 [ゴリラ.Go #2](https://gorilla-go.connpass.com/event/237637/)
+- Feb 9 [実践！インテグレーションパターン](https://modeling-how-to-learn.connpass.com/event/233934/)
+- Feb 7 [AWSの基礎を学ぼう 第七十一回](https://awsbasics.connpass.com/event/236239/)
+- Feb 5 [特別編 Amazon VPC IP Address Manager ハンズオン](https://awsbasics.connpass.com/event/235160/)
+- Jan 31 [AWSの基礎を学ぼう 第七十回](https://awsbasics.connpass.com/event/235174/)
 <!-- profile updater end: connpass -->
