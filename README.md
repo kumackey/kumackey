@@ -10,6 +10,16 @@
 - Aug 14 [【備忘録】AWS EC2へのSSHで`port 22: Operation timed out`になっちゃう現象を調査した](https://zenn.dev/kumackey/articles/398645b471fb05d3814a)
 <!-- profile updater end: zenn -->
 
+# Qiita Articles
+
+<!-- profile updater begin: qiita -->
+- Feb 11 [ゴリラ.Go #2](https://gorilla-go.connpass.com/event/237637/)
+- Feb 9 [実践！インテグレーションパターン](https://modeling-how-to-learn.connpass.com/event/233934/)
+- Feb 7 [AWSの基礎を学ぼう 第七十一回](https://awsbasics.connpass.com/event/236239/)
+- Feb 5 [特別編 Amazon VPC IP Address Manager ハンズオン](https://awsbasics.connpass.com/event/235160/)
+- Jan 31 [AWSの基礎を学ぼう 第七十回](https://awsbasics.connpass.com/event/235174/)
+<!-- profile updater end: qiita -->
+
 # connpass Events
 
 <!-- profile updater begin: connpass -->
