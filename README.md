@@ -1,4 +1,4 @@
-![](./profile-summary-card-output/default/1-repos-per-language.svg)
+![](./profile-summary-card-output/default/1-repos-per-language.svg)![](./profile-summary-card-output/default/2-most-commit-language.svg)![](./profile-summary-card-output/default/3-stats.svg)
 
 # Zenn Articles
 
