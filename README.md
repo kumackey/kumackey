@@ -1,4 +1,4 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kumackey&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kumackey&theme=default)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kumackey&theme=default)
 
 # Zenn Articles
 
