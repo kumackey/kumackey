@@ -24,7 +24,7 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 18 [【再度増枠！】Rust何もわからない…](https://estie.connpass.com/event/243724/)
+- Apr 18 [【再度増枠！】Rust、何もわからない…](https://estie.connpass.com/event/243724/)
 - Apr 6 [user.post(article)](https://architect-club.connpass.com/event/244485/)
 - Feb 22 [【画面キャプチャ禁止】うちの管理画面フロントエンドほぼ全部見せます！](https://caddi.connpass.com/event/239169/)
 - Feb 11 [ゴリラ.Go #2](https://gorilla-go.connpass.com/event/237637/)
