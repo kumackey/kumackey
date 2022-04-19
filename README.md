@@ -24,9 +24,9 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
+- May 14 [特別編 Lambda Function URLs](https://awsbasics.connpass.com/event/245650/)
+- Apr 29 [ゴリラ.Go #5](https://gorilla-go.connpass.com/event/245628/)
 - Apr 18 [【再度増枠！】Rust、何もわからない…](https://estie.connpass.com/event/243724/)
 - Apr 6 [user.post(article)](https://architect-club.connpass.com/event/244485/)
 - Feb 22 [【画面キャプチャ禁止】うちの管理画面フロントエンドほぼ全部見せます！](https://caddi.connpass.com/event/239169/)
-- Feb 11 [ゴリラ.Go #2](https://gorilla-go.connpass.com/event/237637/)
-- Feb 9 [実践！インテグレーションパターン](https://modeling-how-to-learn.connpass.com/event/233934/)
 <!-- profile updater end: connpass -->
