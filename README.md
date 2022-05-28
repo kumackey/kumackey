@@ -15,12 +15,11 @@
 # Qiita Articles
 
 <!-- profile updater begin: qiita -->
-- Feb 16, 30LGTM [【個人開発】Githubのプロフィールに、Qiita・Zennの記事などを一覧表示させる、Github Actionsのアクション作ったよ！](https://qiita.com/kumackey/items/5bf3dec679f6888d9d4b)
+- Feb 16, **30 LGTM** [【個人開発】Githubのプロフィールに、Qiita・Zennの記事などを一覧表示させる、Github Actionsのアクション作ったよ！](https://qiita.com/kumackey/items/5bf3dec679f6888d9d4b)
 - Jan 24 [【PHP】住所を都道府県/市区町村/それ以降に分ける](https://qiita.com/kumackey/items/caa6d4f5eb3370ef59f4)
-- Dec 30, 2LGTM [【PHP】DatetimeImmutableのコンストラクタはタイムゾーン判定において文字列を優先する](https://qiita.com/kumackey/items/e49aeb89f5eced4cdbfa)
-- Nov 20, 12LGTM [【PHP入門】RubyエンジニアがPHPを勉強し始めるときに見る記事](https://qiita.com/kumackey/items/352ce983362d186773be)
-- Aug 29, 1LGTM [「確定する」の命名](https://qiita.com/kumackey/items/e1d30002104a016ba1fe)
-- Aug 16, 2LGTM [Cannot create container for 〇〇: create .: volume name is too short, names should be at least two alphanumeric characters](https://qiita.com/kumackey/items/5b5617047a5685e61953)
+- Dec 30, **2 LGTM** [【PHP】DatetimeImmutableのコンストラクタはタイムゾーン判定において文字列を優先する](https://qiita.com/kumackey/items/e49aeb89f5eced4cdbfa)
+- Nov 20, **12 LGTM** [【PHP入門】RubyエンジニアがPHPを勉強し始めるときに見る記事](https://qiita.com/kumackey/items/352ce983362d186773be)
+- Aug 29, **1 LGTM** [「確定する」の命名](https://qiita.com/kumackey/items/e1d30002104a016ba1fe)
 <!-- profile updater end: qiita -->
 
 # connpass Events
