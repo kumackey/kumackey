@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: kumackey/profile-updater@v1
+      - uses: kumackey/profile-updater@qiita_api
         with:
           zenn_user_id: kumackey
           connpass_nickname: kumackey
