@@ -18,7 +18,7 @@
 - Jul 29, **1 LGTM** [【備忘録】EC2 ubuntu内でDockerのhttpd(Apache)コンテナを起動してアクセスしても、403 Forbiddenとなる問題](https://qiita.com/kumackey/items/6ee8ad390c448e81c329)
 - Feb 16, **32 LGTM** [【個人開発】Githubのプロフィールに、Qiita・Zennの記事などを一覧表示させる、Github Actionsのアクション作ったよ！](https://qiita.com/kumackey/items/5bf3dec679f6888d9d4b)
 - Jan 24 [【PHP】住所を都道府県/市区町村/それ以降に分ける](https://qiita.com/kumackey/items/caa6d4f5eb3370ef59f4)
-- Dec 30, **2 LGTM** [【PHP】DatetimeImmutableのコンストラクタはタイムゾーン判定において文字列を優先する](https://qiita.com/kumackey/items/e49aeb89f5eced4cdbfa)
+- Dec 30, **3 LGTM** [【PHP】DatetimeImmutableのコンストラクタはタイムゾーン判定において文字列を優先する](https://qiita.com/kumackey/items/e49aeb89f5eced4cdbfa)
 - Nov 20, **13 LGTM** [【PHP入門】RubyエンジニアがPHPを勉強し始めるときに見る記事](https://qiita.com/kumackey/items/352ce983362d186773be)
 <!-- profile updater end: qiita -->
 
@@ -26,8 +26,8 @@
 
 <!-- profile updater begin: connpass -->
 - Aug 22 [リスコフ置換原則論文を読む](https://architect-club.connpass.com/event/257617/)
+- Aug 20 [もくもく会@恵比寿](https://techmokmok.connpass.com/event/257516/)
 - Apr 18 [【再度増枠！】Rust、何もわからない…](https://estie.connpass.com/event/243724/)
 - Apr 6 [user.post(article)](https://architect-club.connpass.com/event/244485/)
 - Feb 22 [【画面キャプチャ禁止】うちの管理画面フロントエンドほぼ全部見せます！](https://caddi.connpass.com/event/239169/)
-- Feb 11 [ゴリラ.Go #2](https://gorilla-go.connpass.com/event/237637/)
 <!-- profile updater end: connpass -->
