@@ -19,7 +19,7 @@
 - Feb 16, **32 LGTM** [【個人開発】Githubのプロフィールに、Qiita・Zennの記事などを一覧表示させる、Github Actionsのアクション作ったよ！](https://qiita.com/kumackey/items/5bf3dec679f6888d9d4b)
 - Jan 24 [【PHP】住所を都道府県/市区町村/それ以降に分ける](https://qiita.com/kumackey/items/caa6d4f5eb3370ef59f4)
 - Dec 30, **3 LGTM** [【PHP】DatetimeImmutableのコンストラクタはタイムゾーン判定において文字列を優先する](https://qiita.com/kumackey/items/e49aeb89f5eced4cdbfa)
-- Nov 20, **13 LGTM** [【PHP入門】RubyエンジニアがPHPを勉強し始めるときに見る記事](https://qiita.com/kumackey/items/352ce983362d186773be)
+- Nov 20, **14 LGTM** [【PHP入門】RubyエンジニアがPHPを勉強し始めるときに見る記事](https://qiita.com/kumackey/items/352ce983362d186773be)
 <!-- profile updater end: qiita -->
 
 # connpass Events
