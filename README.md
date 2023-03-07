@@ -25,9 +25,9 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
+- Mar 11 [もくもく会@恵比寿](https://techmokmok.connpass.com/event/277277/)
 - Dec 2 [re:Invent 2022 re:Cap 4th Night Final](https://awsbasics.connpass.com/event/265647/)
 - Dec 1 [re:Invent 2022 re:Cap 3rd Night](https://awsbasics.connpass.com/event/265646/)
 - Aug 22 [リスコフ置換原則論文を読む](https://architect-club.connpass.com/event/257617/)
 - Aug 20 [もくもく会@恵比寿](https://techmokmok.connpass.com/event/257516/)
-- Apr 18 [【再度増枠！】Rust、何もわからない…](https://estie.connpass.com/event/243724/)
 <!-- profile updater end: connpass -->
