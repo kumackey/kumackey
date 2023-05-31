@@ -5,11 +5,11 @@
 # Zenn Articles
 
 <!-- profile updater begin: zenn -->
+- May 30 [Goの特性をFour Keysで説明する試み](https://zenn.dev/kumackey/articles/d20230530-51a1f1a3987149)
 - May 9 [fmtのprintの種類、多くね？って方向けの覚え方](https://zenn.dev/kumackey/articles/d20230509-600f17907e4084)
 - Oct 31 [デプロイ頻度を向上させることへの誤解](https://zenn.dev/kumackey/articles/d20221029-a38eb4bebc3272)
 - Feb 19 [【Go】春分の日と秋分の日をロジックで算出する](https://zenn.dev/kumackey/articles/d20220219-21c9a5e8b8603a)
 - Jan 22 [リリースフラグによってプルリクを小さくする方法](https://zenn.dev/kumackey/articles/d20220120-98f77cad115deb)
-- Oct 23 [【Go】Developer eXperience Day 2021における和田さんのテスト駆動開発の解説をGoで実装してみた](https://zenn.dev/kumackey/articles/a9dc6ab95780d0)
 <!-- profile updater end: zenn -->
 
 # Qiita Articles
