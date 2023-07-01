@@ -25,9 +25,9 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
+- Jul 12 [OPEN CODE（インフラ編）【MOSH×YOUTRUST】](https://youtrust.connpass.com/event/288667/)
 - Jul 9 [CoderDojo赤羽 #46](https://coderdojo-akabane.connpass.com/event/287645/)
 - Jun 30 [カジュベ for エンジニア〜ボードゲーム編〜](https://youtrust.connpass.com/event/287430/)
 - Mar 11 [個人開発者のもくもく会 Part164 in 渋谷](https://k-dev.connpass.com/event/277323/)
 - Dec 2 [re:Invent 2022 re:Cap 4th Night Final](https://awsbasics.connpass.com/event/265647/)
-- Dec 1 [re:Invent 2022 re:Cap 3rd Night](https://awsbasics.connpass.com/event/265646/)
 <!-- profile updater end: connpass -->
