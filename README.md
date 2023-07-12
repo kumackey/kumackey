@@ -25,9 +25,9 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
+- Aug 8 [並列処理をGo/Rust/Kotlin/Python/JSで解説！思想の違いを体感しよう](https://jtx.connpass.com/event/289233/)
 - Jul 15 [【渋谷】ITもくもく・交流会](https://asulever.connpass.com/event/290011/)
 - Jul 15 [7/15(土)【エンジニア限定】土曜朝からもくもく会@白金高輪](https://connpass.com/event/289967/)
 - Jul 13 [神田・秋葉原 もくもく会 vol.25](https://fffff.connpass.com/event/288979/)
 - Jul 12 [#2 OPEN CODE（インフラ編）【MOSH×YOUTRUST】](https://youtrust.connpass.com/event/288667/)
-- Jul 9 [CoderDojo赤羽 #46](https://coderdojo-akabane.connpass.com/event/287645/)
 <!-- profile updater end: connpass -->
