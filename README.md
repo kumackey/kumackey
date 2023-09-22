@@ -26,8 +26,8 @@
 
 <!-- profile updater begin: connpass -->
 - Sep 28 [golang.tokyo #33](https://golangtokyo.connpass.com/event/293636/)
-- Sep 23 [HarborSもくもく会@表参道 #104](https://harbors-kihonjoho.connpass.com/event/295114/)
 - Sep 23 [もくもく会@恵比寿](https://techmokmok.connpass.com/event/296704/)
 - Sep 14 [神田・秋葉原 もくもく会 vol.28](https://fffff.connpass.com/event/295605/)
 - Aug 8 [並列処理をGo/Rust/Kotlin/Python/JSで解説！思想の違いを体感しよう](https://jtx.connpass.com/event/289233/)
+- Jul 15 [7/15(土)【エンジニア限定】土曜朝からもくもく会@白金高輪](https://connpass.com/event/289967/)
 <!-- profile updater end: connpass -->
