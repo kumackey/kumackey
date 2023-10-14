@@ -25,9 +25,9 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
+- Oct 31 [Go 1.21 リリースパーティ & GopherCon 2023 報告会](https://gocon.connpass.com/event/299108/)
 - Oct 11 [プロ棋士と将棋✕ITを楽しむ会](https://connpass.com/event/296695/)
 - Oct 5 [Platform Engineering Meetup #5](https://platformengineering.connpass.com/event/295048/)
 - Sep 23 [個人開発者のもくもく会 Part177 in 渋谷](https://k-dev.connpass.com/event/297037/)
 - Sep 14 [神田・秋葉原 もくもく会 vol.28](https://fffff.connpass.com/event/295605/)
-- Aug 8 [並列処理をGo/Rust/Kotlin/Python/JSで解説！思想の違いを体感しよう](https://jtx.connpass.com/event/289233/)
 <!-- profile updater end: connpass -->
