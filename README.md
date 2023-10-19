@@ -26,8 +26,8 @@
 
 <!-- profile updater begin: connpass -->
 - Oct 31 [Go 1.21 リリースパーティ & GopherCon 2023 報告会](https://gocon.connpass.com/event/299108/)
+- Oct 31 [なぜ話題？Platform Engineering最前線 〜いま注目を浴びている理由とは〜](https://findy.connpass.com/event/298961/)
+- Oct 29 [【現27名様】渋谷の駅近!お洒落オフィスでエンジニアもくもく会♪♪](https://aegis.connpass.com/event/297465/)
+- Oct 26 [【書籍出版記念vol2】LangChainでAIアシスタントを動かすハンズオン【オフライン開催】](https://studyco.connpass.com/event/298456/)
 - Oct 11 [プロ棋士と将棋✕ITを楽しむ会](https://connpass.com/event/296695/)
-- Oct 5 [Platform Engineering Meetup #5](https://platformengineering.connpass.com/event/295048/)
-- Sep 23 [個人開発者のもくもく会 Part177 in 渋谷](https://k-dev.connpass.com/event/297037/)
-- Sep 14 [神田・秋葉原 もくもく会 vol.28](https://fffff.connpass.com/event/295605/)
 <!-- profile updater end: connpass -->
