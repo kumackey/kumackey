@@ -27,7 +27,7 @@
 <!-- profile updater begin: connpass -->
 - Dec 6 [Platform Engineering Meetup #6](https://platformengineering.connpass.com/event/299834/)
 - Nov 19 [部活 2023.11 そらよん](https://tkbb.connpass.com/event/300008/)
+- Nov 2 [ChatGPT Meetup Tokyo #5](https://chatgpt.connpass.com/event/298793/)
 - Oct 31 [Go 1.21 リリースパーティ & GopherCon 2023 報告会](https://gocon.connpass.com/event/299108/)
 - Oct 31 [なぜ話題？Platform Engineering最前線 〜いま注目を浴びている理由とは〜](https://findy.connpass.com/event/298961/)
-- Oct 29 [【現34名様】渋谷の駅近!お洒落オフィスでエンジニアもくもく会♪♪](https://aegis.connpass.com/event/297465/)
 <!-- profile updater end: connpass -->
