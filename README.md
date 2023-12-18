@@ -16,7 +16,7 @@
 
 <!-- profile updater begin: qiita -->
 - Jun 6 [【個人開発】キリ番を判定するGoライブラリを作りました。](https://qiita.com/kumackey/items/9a76e7d347b50490a325)
-- Jul 29, **6 LGTM** [【備忘録】EC2 ubuntu内でDockerのhttpd(Apache)コンテナを起動してアクセスしても、403 Forbiddenとなる問題](https://qiita.com/kumackey/items/6ee8ad390c448e81c329)
+- Jul 29, **5 LGTM** [【備忘録】EC2 ubuntu内でDockerのhttpd(Apache)コンテナを起動してアクセスしても、403 Forbiddenとなる問題](https://qiita.com/kumackey/items/6ee8ad390c448e81c329)
 - Feb 16, **35 LGTM** [【個人開発】Githubのプロフィールに、Qiita・Zennの記事などを一覧表示させる、Github Actionsのアクション作ったよ！](https://qiita.com/kumackey/items/5bf3dec679f6888d9d4b)
 - Jan 24, **2 LGTM** [【PHP】住所を都道府県/市区町村/それ以降に分ける](https://qiita.com/kumackey/items/caa6d4f5eb3370ef59f4)
 - Dec 30, **4 LGTM** [【PHP】DatetimeImmutableのコンストラクタはタイムゾーン判定において文字列を優先する](https://qiita.com/kumackey/items/e49aeb89f5eced4cdbfa)
