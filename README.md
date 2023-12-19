@@ -25,9 +25,9 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
+- Jan 13 [【オフライン開催】Urawa.rb #1](https://urawarb.connpass.com/event/304530/)
 - Dec 16 [部活 2023.12 あきぱん](https://tkbb.connpass.com/event/303734/)
 - Dec 6 [Platform Engineering Meetup #6](https://platformengineering.connpass.com/event/299834/)
 - Nov 19 [部活 2023.11 そらよん](https://tkbb.connpass.com/event/300008/)
 - Nov 7 [【当日開催】今朝のOpenAI DevDayでのアップデートをキャッチアップする会](https://studyco.connpass.com/event/301631/)
-- Oct 31 [Go 1.21 リリースパーティ & GopherCon 2023 報告会](https://gocon.connpass.com/event/299108/)
 <!-- profile updater end: connpass -->
