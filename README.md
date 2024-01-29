@@ -24,9 +24,9 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
+- Feb 26 [プロ棋士と将棋✕ITを楽しむ会 #2](https://shogi-it.connpass.com/event/308431/)
 - Feb 18 [【オフライン開催】Urawa.rb #2](https://urawarb.connpass.com/event/307728/)
 - Dec 16 [部活 2023.12 あきぱん](https://tkbb.connpass.com/event/303734/)
 - Dec 6 [Platform Engineering Meetup #6](https://platformengineering.connpass.com/event/299834/)
 - Nov 19 [部活 2023.11 そらよん](https://tkbb.connpass.com/event/300008/)
-- Nov 7 [【当日開催】今朝のOpenAI DevDayでのアップデートをキャッチアップする会](https://studyco.connpass.com/event/301631/)
 <!-- profile updater end: connpass -->
