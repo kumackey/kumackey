@@ -4,11 +4,11 @@
 # Zenn Articles
 
 <!-- profile updater begin: zenn -->
+- Feb 29 [エンジニアは成熟度よりもキャッチアップ力を高めていくべき仮説](https://zenn.dev/kumackey/articles/d20240228-7e361cf2d15c49)
 - Aug 5 [Faraday.deleteでquery stringでなくrequest bodyにパラメータを渡す方法](https://zenn.dev/kumackey/articles/d20230804-a112fe6d1c4411)
 - Jul 8 [浮動小数点の計算は順序によって結果が変わることをGoのプログラムで確認する](https://zenn.dev/kumackey/articles/d20230708-a7c195db087338)
 - Jul 7 [kaminariのページネーションのViewをActiveRecord以外のオレオレオブジェクトで実現する方法](https://zenn.dev/kumackey/articles/d20230705-47342a8db88ec5)
 - Jun 3 [Docker Composeで立ち上げたPostgreSQLにローカルからgo runで繋ぎたい最小構成](https://zenn.dev/kumackey/articles/d20230603-9fe610772cd913)
-- May 30 [Goの特性をFour Keysで説明する試み](https://zenn.dev/kumackey/articles/d20230530-51a1f1a3987149)
 <!-- profile updater end: zenn -->
 
 # Qiita Articles
