@@ -4,11 +4,11 @@
 # Zenn Articles
 
 <!-- profile updater begin: zenn -->
+- Apr 2 [Goでテスタビリティを目的とした場合の最小限のDI設計](https://zenn.dev/kumackey/articles/d20240402-7019dbeea21735)
 - Mar 26 [OpenAPIで空文字を弾く方法](https://zenn.dev/kumackey/articles/c7fa002bdb3ce1)
 - Mar 6 [なぜパタヘネ本を読んだ(≒コンピュータアーキテクチャを学んだ)のか](https://zenn.dev/kumackey/articles/d20240306-415f2a1efe3ee2)
 - Feb 29 [エンジニアは成熟度よりもキャッチアップ力を高めていくべき仮説](https://zenn.dev/kumackey/articles/d20240228-7e361cf2d15c49)
 - Aug 5 [Faraday.deleteでquery stringでなくrequest bodyにパラメータを渡す方法](https://zenn.dev/kumackey/articles/d20230804-a112fe6d1c4411)
-- Jul 8 [浮動小数点の計算は順序によって結果が変わることをGoのプログラムで確認する](https://zenn.dev/kumackey/articles/d20230708-a7c195db087338)
 <!-- profile updater end: zenn -->
 
 # Qiita Articles
@@ -24,9 +24,9 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
+- Apr 23 [Goのエラーハンドリング 最新事情Lunch LT](https://findy.connpass.com/event/314417/)
 - Feb 26 [プロ棋士と将棋✕ITを楽しむ会 #2](https://shogi-it.connpass.com/event/308431/)
 - Feb 18 [【オフライン開催】Urawa.rb #2](https://urawarb.connpass.com/event/307728/)
 - Dec 16 [部活 2023.12 あきぱん](https://tkbb.connpass.com/event/303734/)
 - Dec 6 [Platform Engineering Meetup #6](https://platformengineering.connpass.com/event/299834/)
-- Nov 19 [部活 2023.11 そらよん](https://tkbb.connpass.com/event/300008/)
 <!-- profile updater end: connpass -->
