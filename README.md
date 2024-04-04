@@ -20,13 +20,3 @@
 - Jan 24, **2 LGTM** [【PHP】住所を都道府県/市区町村/それ以降に分ける](https://qiita.com/kumackey/items/caa6d4f5eb3370ef59f4)
 - Dec 30, **4 LGTM** [【PHP】DatetimeImmutableのコンストラクタはタイムゾーン判定において文字列を優先する](https://qiita.com/kumackey/items/e49aeb89f5eced4cdbfa)
 <!-- profile updater end: qiita -->
-
-# connpass Events
-
-<!-- profile updater begin: connpass -->
-- Apr 23 [Goのエラーハンドリング 最新事情Lunch LT](https://findy.connpass.com/event/314417/)
-- Feb 26 [プロ棋士と将棋✕ITを楽しむ会 #2](https://shogi-it.connpass.com/event/308431/)
-- Feb 18 [【オフライン開催】Urawa.rb #2](https://urawarb.connpass.com/event/307728/)
-- Dec 16 [部活 2023.12 あきぱん](https://tkbb.connpass.com/event/303734/)
-- Dec 6 [Platform Engineering Meetup #6](https://platformengineering.connpass.com/event/299834/)
-<!-- profile updater end: connpass -->
