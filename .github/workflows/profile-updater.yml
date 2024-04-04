@@ -13,7 +13,6 @@ jobs:
       - uses: kumackey/profile-updater@v1
         with:
           zenn_user_id: kumackey
-          connpass_nickname: kumackey
           qiita_user_id: kumackey
       - name: Commit and push
         run: |
