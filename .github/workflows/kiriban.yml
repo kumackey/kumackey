@@ -1,0 +1,12 @@
+name: kiriban
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  kiriban:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: kumackey/kiriban@main
