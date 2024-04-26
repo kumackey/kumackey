@@ -14,7 +14,7 @@
 # Qiita Articles
 
 <!-- profile updater begin: qiita -->
-- Apr 14, **54 LGTM** [【個人開発】キリ番を祝ってくれるGithub Actionsをリリースしました🎉【Go】](https://qiita.com/kumackey/items/bf252ca24d343e71d6a2)
+- Apr 14, **56 LGTM** [【個人開発】キリ番を祝ってくれるGithub Actionsをリリースしました🎉【Go】](https://qiita.com/kumackey/items/bf252ca24d343e71d6a2)
 - Jun 6, **1 LGTM** [【個人開発】キリ番を判定するGoライブラリを作りました。](https://qiita.com/kumackey/items/9a76e7d347b50490a325)
 - Jul 29, **5 LGTM** [【備忘録】EC2 ubuntu内でDockerのhttpd(Apache)コンテナを起動してアクセスしても、403 Forbiddenとなる問題](https://qiita.com/kumackey/items/6ee8ad390c448e81c329)
 - Feb 16, **35 LGTM** [【個人開発】Githubのプロフィールに、Qiita・Zennの記事などを一覧表示させる、Github Actionsのアクション作ったよ！](https://qiita.com/kumackey/items/5bf3dec679f6888d9d4b)
