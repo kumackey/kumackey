@@ -4,11 +4,11 @@
 # Zenn Articles
 
 <!-- profile updater begin: zenn -->
+- Jun 14 [プライベートIPアドレスなどを語呂合わせで覚える](https://zenn.dev/kumackey/articles/d20240613-d66f8aa58d745c)
 - Apr 2 [Goでテスタビリティを目的とした場合の最小限のDI設計](https://zenn.dev/kumackey/articles/d20240402-7019dbeea21735)
 - Mar 26 [OpenAPIで空文字を弾く方法](https://zenn.dev/kumackey/articles/c7fa002bdb3ce1)
 - Mar 6 [なぜパタヘネ本を読んだ(≒コンピュータアーキテクチャを学んだ)のか](https://zenn.dev/kumackey/articles/d20240306-415f2a1efe3ee2)
 - Feb 29 [エンジニアは成熟度よりもキャッチアップ力を高めていくべき仮説](https://zenn.dev/kumackey/articles/d20240228-7e361cf2d15c49)
-- Aug 5 [Faraday.deleteでquery stringでなくrequest bodyにパラメータを渡す方法](https://zenn.dev/kumackey/articles/d20230804-a112fe6d1c4411)
 <!-- profile updater end: zenn -->
 
 # Qiita Articles
