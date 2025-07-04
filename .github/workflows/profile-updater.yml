@@ -14,6 +14,7 @@ jobs:
         with:
           zenn_user_id: kumackey
           qiita_user_id: kumackey
+          qiita_sort_by_lgtm: true
       - name: Commit and push
         run: |
           git config --local user.name "GitHub Actions"
