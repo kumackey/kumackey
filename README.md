@@ -11,9 +11,9 @@
 # Qiita Articles
 
 <!-- profile updater begin: qiita -->
-- Jul 3, **140 LGTM** [応用情報を逆に2年かけて合格する学習方法。コンピュータサイエンスの体系的学習と、長期記憶への定着](https://qiita.com/kumackey/items/869983f05178e277281a)
+- Jul 3, **169 LGTM** [応用情報を逆に2年かけて合格する学習方法。コンピュータサイエンスの体系的学習と、長期記憶への定着](https://qiita.com/kumackey/items/869983f05178e277281a)
 - Apr 14, **58 LGTM** [【個人開発】キリ番を祝ってくれるGithub Actionsをリリースしました🎉【Go】](https://qiita.com/kumackey/items/bf252ca24d343e71d6a2)
-- Feb 16, **40 LGTM** [【個人開発】Githubのプロフィールに、Qiita・Zennの記事などを一覧表示させる、Github Actionsのアクション作ったよ！](https://qiita.com/kumackey/items/5bf3dec679f6888d9d4b)
+- Feb 16, **41 LGTM** [【個人開発】Githubのプロフィールに、Qiita・Zennの記事などを一覧表示させる、Github Actionsのアクション作ったよ！](https://qiita.com/kumackey/items/5bf3dec679f6888d9d4b)
 - Jul 29, **7 LGTM** [【備忘録】EC2 ubuntu内でDockerのhttpd(Apache)コンテナを起動してアクセスしても、403 Forbiddenとなる問題](https://qiita.com/kumackey/items/6ee8ad390c448e81c329)
 - Jun 6, **1 LGTM** [【個人開発】キリ番を判定するGoライブラリを作りました。](https://qiita.com/kumackey/items/9a76e7d347b50490a325)
 <!-- profile updater end: qiita -->
